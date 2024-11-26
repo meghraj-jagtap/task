@@ -1,0 +1,93 @@
+.frame {
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  height: 80px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.frame .div {
+  display: inline-flex;
+  justify-content: center;
+  gap: 174px;
+  flex: 0 0 auto;
+  align-items: center;
+  position: relative;
+}
+
+.frame .eluminous-pvt-ltd {
+  position: relative;
+  width: 200.71px;
+  height: 36px;
+  object-fit: cover;
+}
+
+.frame .navbar {
+  display: inline-flex;
+  align-items: center;
+  gap: 26px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.frame .div-2 {
+  display: inline-flex;
+  gap: 2px;
+  flex: 0 0 auto;
+  align-items: center;
+  position: relative;
+}
+
+.frame .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .caret-down {
+  position: relative;
+  width: 15px;
+  height: 15px;
+}
+
+.frame .div-wrapper {
+  display: flex;
+  width: 124px;
+  height: 46px;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  margin-top: -1.00px;
+  margin-bottom: -1.00px;
+  margin-right: -1.00px;
+  border-radius: 38px;
+  border: 1px solid;
+  border-color: #1458bc;
+  align-items: center;
+  position: relative;
+}
+
+.frame .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #155ac0;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
